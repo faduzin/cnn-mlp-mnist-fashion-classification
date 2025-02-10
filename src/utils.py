@@ -75,6 +75,7 @@ def evaluate_model(model, X_test, y_test):
     test_loss, test_accuracy = model.evaluate(X_test, y_test, verbose=0)
     print(f"Test loss: {test_loss:.4f}")
     print(f"Test accuracy: {test_accuracy:.4f}")
+    return test_loss, test_accuracy
 
 
 def plot_confusion_matrix(y_true, y_pred, labels):
