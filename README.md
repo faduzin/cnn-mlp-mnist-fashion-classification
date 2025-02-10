@@ -15,7 +15,7 @@ Este projeto explora a aplicação de Redes Neurais Convolucionais (CNNs) e Perc
 7. [Habilidades Praticadas](#habilidades-praticadas)  
 8. [Conclusão](#conclusão)  
 9. [Contato](#contato)
-10. [Contribuições](#contribuições)
+10. [Contribuições](#contribuicões)
 11. [Estrutura do Repositório](#estrutura-do-repositório)
 
 ## Contexto
