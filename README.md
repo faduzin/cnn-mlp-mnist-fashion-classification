@@ -1,5 +1,7 @@
 # Classificação de Moda MNIST com CNN & MLP
 
+*To access this README in english, [click here](README.eng.md)*
+
 Este projeto explora a aplicação de Redes Neurais Convolucionais (CNNs) e Perceptrons de Múltiplas Camadas (MLPs) ao conjunto de dados Fashion MNIST. O objetivo é experimentar diferentes topologias de modelo e configurações de dropout para avaliar seu impacto no desempenho de classificação de imagens. Ao comparar várias arquiteturas, o projeto demonstra como escolhas de design, como camadas de dropout, podem ajudar a mitigar overfitting e melhorar a capacidade de generalização dos modelos.
 
 ## Índice
