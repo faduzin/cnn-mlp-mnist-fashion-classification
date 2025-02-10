@@ -6,7 +6,7 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dens
 def plot_first_images(X, y, num_images=5):
     
     plt.figure(figsize=(10, 5))
-
+    
     for i in range(num_images):
         plt.subplot(1, num_images, i + 1)
         plt.imshow(X[i].squeeze(), cmap="gray")  # Remove extra dimension for visualization
