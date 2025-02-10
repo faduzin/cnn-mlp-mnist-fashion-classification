@@ -1,3 +1,4 @@
 data/fashion-mnist_test.csv
 data/fashion-mnist_train.csv
 src/__pycache__/
+notebooks/testing.ipynb
